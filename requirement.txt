@@ -1,0 +1,6 @@
+matplotlib==3.7.3
+numpy==1.22.0
+ngsolve==6.2.2305
+netgen-mesher==6.2.2305
+opt_einsum==3.3.0
+fealpy==1.1.20

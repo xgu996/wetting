@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="Electron" modified="2023-10-09T07:57:05.154Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) liuchengtu/6.6.4 Chrome/87.0.4280.141 Electron/11.3.0 Safari/537.36" etag="9lDLivP5v910o9rUoUiL" background="rgb(255, 255, 255)" version="14.7.8" type="online">
+  <diagram id="5OvSPCCh1nL7KhUK_uSD" name="第 1 页">
+    <mxGraphModel dx="2076" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/26/26f076336a548f01b3c0b651706710b4.png;" parent="1" vertex="1">
+          <mxGeometry x="280" y="450" width="458.23" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/90/904d855bfe46e065ed71d88d2ddababd.png;" vertex="1" parent="1">
+          <mxGeometry x="530" y="120" width="458.23" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/a7/a7a181774975c05284a831aab9072423.png;" vertex="1" parent="1">
+          <mxGeometry x="780" y="450" width="458.23" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/d9/d9750701f6e6a7c94c9d94671256c267.png;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="120" width="458.23" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/05/05337485a1f20bc0c0ea7c49f1724312.png;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="450" width="458.23" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="550" as="sourcePoint" />
+            <mxPoint x="750" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="" style="endArrow=classic;html=1;strokeWidth=4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="340" as="sourcePoint" />
+            <mxPoint x="1549" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1570" y="360" as="sourcePoint" />
+            <mxPoint x="1530" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="5" target="6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2270" y="320" as="sourcePoint" />
+            <mxPoint x="2320" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

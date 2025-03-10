@@ -1,0 +1,7 @@
+![](./wet_diffgap.png)
+![](./wet_diffheight.png)
+![](./wet_difftheta.png)
+![](./sclean1_diffbott.png)
+![](./sclean1_difftheta.png)
+![](./sclean2_diffbott.png)
+![](./sclean2_difftheta.png)
